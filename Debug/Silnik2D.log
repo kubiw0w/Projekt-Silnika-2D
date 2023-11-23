@@ -1,0 +1,104 @@
+﻿  Engine.cpp
+  LineSegment.cpp
+  Point2D.cpp
+  PrimitiveRenderer.cpp
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(47,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(47,72): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(50,44): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(50,40): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(112,39): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(112,31): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(113,39): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(113,31): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(114,39): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(114,31): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(115,39): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(115,31): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(116,39): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(116,31): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(117,39): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(117,31): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(118,39): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(118,31): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(119,39): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(119,31): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(141,14): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(142,14): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(144,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(146,14): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\PrimitiveRenderer.cpp(167,65): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  projekt.cpp
+  Generowanie kodu...
+  Silnik2D.vcxproj -> C:\Users\kubas\Desktop\programy\grafika\DinoGameSilnik2D\Silnik2D\Debug\Silnik2D.exe
